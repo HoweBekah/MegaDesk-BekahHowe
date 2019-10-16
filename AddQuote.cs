@@ -48,7 +48,7 @@ namespace MegaDesk_BekahHowe
                 widthInput.Text = "";
                 widthInput.Focus();
             }
-
+            //just checking again again
         }
 
         private void GetQuote_Click(object sender, EventArgs e)
